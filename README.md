@@ -52,7 +52,7 @@ API支持SZ数字交易所所有币对的行情、交易业务，用户可通过
 
 [请求说明](https://github.com/szquanapi/SZ-API/wiki/%E8%AF%B7%E6%B1%82%E8%AF%B4%E6%98%8E)
 
-[签名说明](https://github.com/szquanapi/SZ-API/wiki/%E7%AD%BE%E5%90%8D%E8%AF%B4%E6%98%8E)
+[签名说明](https://github.com/szquanapi/SZ-API/wiki/Signature)
 
 [错误码](https://github.com/szquanapi/SZ-API/wiki/%E9%94%99%E8%AF%AF%E7%A0%81)
 
